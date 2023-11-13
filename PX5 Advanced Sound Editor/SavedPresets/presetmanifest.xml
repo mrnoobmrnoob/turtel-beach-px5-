@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presetmanifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <preset>
+    <file>[Wired] Flat.xml</file>
+    <index>1</index>
+    <effecttype>xbox</effecttype>
+  </preset>
+  <preset>
+    <file>[Wired] Dynamic Bass Boost.xml</file>
+    <index>2</index>
+    <effecttype>xbox</effecttype>
+  </preset>
+  <preset>
+    <file>[Wired] Dynamic Treble Boost.xml</file>
+    <index>3</index>
+    <effecttype>xbox</effecttype>
+  </preset>
+  <preset>
+    <file>[Wired] Bass + Treble Boost.xml</file>
+    <index>4</index>
+    <effecttype>xbox</effecttype>
+  </preset>
+  <preset>
+    <file>[Wired] Stereo Expander.xml</file>
+    <index>5</index>
+    <effecttype>xbox</effecttype>
+  </preset>
+  <preset>
+    <file>[Wired] Sonic Lens Mid Booster.xml</file>
+    <index>6</index>
+    <effecttype>xbox</effecttype>
+  </preset>
+  <preset>
+    <file>[Wired] Footstep Mastery.xml</file>
+    <index>7</index>
+    <effecttype>xbox</effecttype>
+  </preset>
+  <preset>
+    <file>[Wired] Superhuman Hearing.xml</file>
+    <index>8</index>
+    <effecttype>xbox</effecttype>
+  </preset>
+  <preset>
+    <file>[Wired] DH Flat.xml</file>
+    <index>9</index>
+    <effecttype>xbox</effecttype>
+  </preset>
+  <preset>
+    <file>[BT] Flat.xml</file>
+    <index>1</index>
+    <effecttype>ps3</effecttype>
+  </preset>
+  <preset>
+    <file>[BT] Dynamic Bass Boost.xml</file>
+    <index>2</index>
+    <effecttype>ps3</effecttype>
+  </preset>
+  <preset>
+    <file>[BT] Dynamic Treble Boost.xml</file>
+    <index>3</index>
+    <effecttype>ps3</effecttype>
+  </preset>
+  <preset>
+    <file>[BT] Bass + Treble Boost.xml</file>
+    <index>4</index>
+    <effecttype>ps3</effecttype>
+  </preset>
+  <preset>
+    <file>[BT] Stereo Expander.xml</file>
+    <index>5</index>
+    <effecttype>ps3</effecttype>
+  </preset>
+  <preset>
+    <file>[BT] Sonic Lens Mid Booster.xml</file>
+    <index>6</index>
+    <effecttype>ps3</effecttype>
+  </preset>
+  <preset>
+    <file>[BT] Footstep Mastery.xml</file>
+    <index>7</index>
+    <effecttype>ps3</effecttype>
+  </preset>
+  <preset>
+    <file>[BT] Superhuman Hearing.xml</file>
+    <index>8</index>
+    <effecttype>ps3</effecttype>
+  </preset>
+  <preset>
+    <file>[BT] DH Flat.xml</file>
+    <index>9</index>
+    <effecttype>ps3</effecttype>
+  </preset>
+</presetmanifest>
